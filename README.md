@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Gerenciamento_Pacientes
-=======
+
 # Gerenciamento_Pacientes
 
 # Sistema de Gestão Médica  
@@ -17,7 +15,3 @@ Este projeto é uma aplicação em Java que simula um sistema de gestão médica
 ---
 
 ### Criado por Carlos  
-
-
-
->>>>>>> c28a2ad (Commit Inicial)
